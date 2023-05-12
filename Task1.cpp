@@ -44,9 +44,5 @@ int main() {
     for(int i=0;i<n;i++){
         member[i].print();
         cout<<endl;
-    }
-
-
     return 0;
-    
 }
